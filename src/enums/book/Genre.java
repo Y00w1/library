@@ -1,0 +1,31 @@
+package enums.book;
+
+public enum Genre {
+    TRAGEDY,
+    COMEDY,
+    FICTION,
+    SCIENCE_FICTION,
+    THRILLER,
+    ROMANCE,
+    BIOGRAPHY,
+    HISTORY,
+    SCIENCE,
+    POETRY,
+    COMICS,
+    RELIGION,
+    ENCYCLOPEDIA,
+    MAGAZINE,
+    NEWSPAPER,
+    MYTHOLOGY,
+    PHILOSOPHY,
+    PSYCHOLOGY,
+    ECONOMICS,
+    POLITICAL,
+    MEDICAL,
+    NOVEL,
+    PLAY,
+    COMIC_BOOK,
+    FABLE,
+    LEGEND,
+    MYTH
+}
